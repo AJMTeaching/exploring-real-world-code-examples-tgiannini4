@@ -1,10 +1,7 @@
 1. Code that specifies when an alarm clock should start making audible sounds
-link
  https://github.com/fennifith/Alarmio/blob/main/app/src/main/java/me/jfenn/alarmio/Alarmio.java#L138 
-lines 
-138
-description
-This line specifies when the alarm clock should use the alarm sound set to make a noise. 
+lines 138: This line specifies when the alarm clock should use the alarm sound set to make a noise. 
+
 2. Code for rocket targeting system 
 link
 https://github.com/abnsl0014/Missile-Guidance-System/blob/1ea365516b0cfb1d75bcbc345ae49b89b03ef52d/testourmodel.py#L6 
